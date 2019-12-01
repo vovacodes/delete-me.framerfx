@@ -1,0 +1,15 @@
+{
+  "license": "MIT",
+  "author": "Vladimir Guguiev",
+  "main": "dist/index.js",
+  "framer": {
+    "id": "10d71701-a031-4bea-8990-edee6a611a2f"
+  },
+  "peerDependencies": {
+    "framer": "^1.0",
+    "react": "^16.8"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8"
+  }
+}
